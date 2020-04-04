@@ -1,0 +1,10 @@
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\bin\Debug\ss_gen.exe.config
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\bin\Debug\ss_gen.exe
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\bin\Debug\ss_gen.pdb
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.csprojAssemblyReference.cache
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.Form1.resources
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.Properties.Resources.resources
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.csproj.GenerateResource.cache
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.csproj.CoreCompileInputs.cache
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.exe
+C:\Users\kailo\Downloads\ss_gen-master\ss_gen-master\ss_gen\obj\Debug\ss_gen.pdb
